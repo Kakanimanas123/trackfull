@@ -1,0 +1,11 @@
+Trackflowwebapp/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.tsx
+│   └── index.tsx
+├── package.json
+├── tailwind.config.js
+├── README.md
+└── .gitignore
